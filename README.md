@@ -102,6 +102,7 @@ _(You can insert a visual diagram here using Markdown image syntax)_
 
 ## Project Structure
 
+```
 ├── Airbnb_ELT_main
 │ ├── analyses
 │ ├── dbt_project.yml
@@ -171,6 +172,7 @@ _(You can insert a visual diagram here using Markdown image syntax)_
 │ └── host_snapshot.sql
 ├── README.md
 └── images
+```
 
 ## Part Descriptions
 
