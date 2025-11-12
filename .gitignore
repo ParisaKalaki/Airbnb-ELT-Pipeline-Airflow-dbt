@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+.env
+.venv/
+env/
+venv/
+*.swp
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# dbt
+dbt_packages/
+target/
+logs/
+
+# Airflow
+airflow.cfg
+airflow.db
+*.pid
+*.log
+*.pickle
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.iml
+
+# Git
+*.orig
+*.rej
+
+# pdf
+*.pdf

@@ -1,0 +1,11 @@
+airbnb_dw:
+  outputs:
+    dev:
+      type: postgres
+      host: 136.115.73.219
+      user: postgres
+      password: qkcH@n9qH[%Z=@rY
+      port: 5432
+      dbname: postgres
+      schema: bronze
+  target: dev
