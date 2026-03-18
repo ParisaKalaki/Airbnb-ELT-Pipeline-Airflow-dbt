@@ -78,8 +78,6 @@ The pipeline separates **Extraction & Loading (EL)**, **Orchestration**, and **T
 3. **Gold Layer**: Aggregated fact and dimension tables.
 4. **Data Marts**: Analytical views for business insights.
 
-**Diagram:**  
-`![Architecture Diagram](images/elt_pipeline.png)`
 
 ### Primary Components
 
