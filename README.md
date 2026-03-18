@@ -79,8 +79,7 @@ The pipeline separates **Extraction & Loading (EL)**, **Orchestration**, and **T
 4. **Data Marts**: Analytical views for business insights.
 
 **Diagram:**  
-_(You can insert a visual diagram here using Markdown image syntax)_  
-`![Architecture Diagram](images/architecture_diagram.png)`
+`![Architecture Diagram](images/elt_pipeline.png)`
 
 ### Primary Components
 
